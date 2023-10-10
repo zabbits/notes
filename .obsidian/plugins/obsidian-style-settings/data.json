@@ -1,0 +1,11 @@
+{
+  "things-style@@mobile-black-background": false,
+  "things-style@@floating-button-off": false,
+  "things-style@@active-line": false,
+  "things-style@@fancy-code": false,
+  "things-style@@fancy-highlight": false,
+  "things-style@@no-kanban-styles": false,
+  "things-style@@no-minimal-title-bar": false,
+  "things-style@@default-font-color": false,
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-simplicity-topaz"
+}
