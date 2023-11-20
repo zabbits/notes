@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1eefe679c8dd3c7c",
@@ -147,6 +148,10 @@
   },
   "active": "d8badb5b32328d0b",
   "lastOpenFiles": [
+    "Pasted Image 20231121001111_651.png",
+    "Pasted Image 20231120234142_551.png",
+    "Pasted Image 20231120232553_493.png",
+    "Pasted Image 20231120232423_482.png",
     "Pasted Image 20231116000103_490.png",
     "bluetooth/蓝牙核心规范总览.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.svg",
